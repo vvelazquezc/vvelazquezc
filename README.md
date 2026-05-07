@@ -1,16 +1,14 @@
-# Hi everyone I'm Veronica!
+# Hi, I'm Verónica! 👋
+### Frontend Engineer · React · TypeScript · UX/UI background
 
-## About me 👩‍💻
-
-> I am a web developer specialized in front-end development.
+> Frontend engineer with a background in Graphic Design and a master's in Software Engineering — which means I care as much about *how things look* as how they work under the hood.
 >
-> Having completed a degree in Graphic Design and a master's degree in Software Engineering, I am quite familiar with all the stages of the development cycle of web projects, from design (UX/UI) to development (UX/UI). 
-stages of the development cycle of web projects, from its design (UX/UI), to its development in programming 
-in programming language.
+> I specialize in React and TypeScript, building scalable and maintainable interfaces with a strong focus on state management, REST API integration, and frontend architecture. I've worked closely with UX/UI teams and contributed to product decisions from the technical side.
 
-_I leave you my LinkedIn in case you want to contact me - [Linkedin](https://www.linkedin.com/in/veronicavc/)_
+**Tech I work with**
 
-**Best, Verónica Velázquez  :sparkles:** 
+`React` `TypeScript` `Next` `Redux` `REST APIs` `JavaScript` `Sass` `UX/UI`
 
+📬 [LinkedIn](https://www.linkedin.com/in/veronicavc/) · Let's connect!
 
-[![Veronica's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvelazquezc&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+🌐 [Portfolio](https://vvelazquez-portfolio.vercel.app/es) · Let's connect!
